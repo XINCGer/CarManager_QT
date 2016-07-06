@@ -6,3 +6,6 @@ QT:4.8.5
 QtCreater:2.8.0  
 
 ##预览  
+![](https://github.com/XINCGer/CarManager_QT/blob/master/Preview1.png)  
+![](https://github.com/XINCGer/CarManager_QT/blob/master/Preview2.png)  
+![](https://github.com/XINCGer/CarManager_QT/blob/master/Preview3.png)
